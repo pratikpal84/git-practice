@@ -1,1 +1,2 @@
-my first gir project
+my first git project
+linux mint xfce
